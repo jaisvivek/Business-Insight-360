@@ -90,10 +90,23 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
  This dashboard answers many business questions based on different scenario.
  This report can be used to take data driven decision to make AtliQ more profitable.
  Snapshot Of the Dashboard
- ![Screenshot 2024-07-24 183110](https://github.com/user-attachments/assets/2752162a-6bd6-4209-9cdd-20cef750addc)
-![Screenshot 2024-07-24 183052](https://github.com/user-attachments/assets/5f334c3a-e297-4f52-9b02-04f086e85d6d)
-![Screenshot 2024-07-24 183030](https://github.com/user-attachments/assets/2951d54d-d17f-4c5c-bebb-a21f2836e6e8)
-![Screenshot 2024-07-24 183015](https://github.com/user-attachments/assets/5ee2193b-f69c-4687-94a1-d32e441da3b2)
-![Screenshot 2024-07-24 183001](https://github.com/user-attachments/assets/955102c1-a115-46cd-a3e6-61bf7fac4198)
-![Screenshot 2024-07-24 182943](https://github.com/user-attachments/assets/79429e34-f662-4bc3-94ff-e1ec13e3b61b)
+ Home Page view
 ![Screenshot 2024-07-24 182922](https://github.com/user-attachments/assets/08468164-5aab-43b8-842c-cebbb3386466)
+Finance View
+![Screenshot 2024-07-24 182943](https://github.com/user-attachments/assets/79429e34-f662-4bc3-94ff-e1ec13e3b61b)
+Sales View
+![Screenshot 2024-07-24 183001](https://github.com/user-attachments/assets/955102c1-a115-46cd-a3e6-61bf7fac4198)
+Marketing View
+![Screenshot 2024-07-24 183015](https://github.com/user-attachments/assets/5ee2193b-f69c-4687-94a1-d32e441da3b2)
+Supply chain View
+![Screenshot 2024-07-24 183030](https://github.com/user-attachments/assets/2951d54d-d17f-4c5c-bebb-a21f2836e6e8)
+Executive View
+![Screenshot 2024-07-24 183052](https://github.com/user-attachments/assets/5f334c3a-e297-4f52-9b02-04f086e85d6d)
+
+
+Support
+![Screenshot 2024-07-24 183110](https://github.com/user-attachments/assets/2752162a-6bd6-4209-9cdd-20cef750addc)
+
+
+
+
