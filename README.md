@@ -117,12 +117,12 @@ Executive View
 ![Screenshot 2024-07-24 183052](https://github.com/user-attachments/assets/5f334c3a-e297-4f52-9b02-04f086e85d6d)
 
 
-
-![Screenshot 2024-07-24 184333](https://github.com/user-attachments/assets/4fa4ee27-4757-473a-aea3-057b5b91c7be)
-
-
-
+Sales Trend Tooltip
 ![Screenshot 2024-07-24 184141](https://github.com/user-attachments/assets/91aa75ce-fa92-4c9d-aa03-9028ce292ffc)
+
+
+Information at Homepage
+![Screenshot 2024-07-24 184333](https://github.com/user-attachments/assets/4fa4ee27-4757-473a-aea3-057b5b91c7be)
 
 
 Support
