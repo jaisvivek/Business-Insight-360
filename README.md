@@ -118,6 +118,7 @@ Executive View
 
 
 Sales Trend Tooltip
+
 ![Screenshot 2024-07-24 184141](https://github.com/user-attachments/assets/91aa75ce-fa92-4c9d-aa03-9028ce292ffc)
 
 
